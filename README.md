@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Full Stack Developer from Nepal</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashim1123&label=Profile%20views&color=0e75b6&style=flat" alt="ashim1123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -20,7 +19,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ashim-shrestha-a34081275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashim-shrestha-a34081275/" height="30" width="40" /></a>
-<a href="https://fb.com/ashim shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashim shrestha" height="30" width="40" /></a>
+<a href="https://fb.com/ashim1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashim1123" height="30" width="40" /></a>
+<a href="https://instagram.com/ashim_1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashim_1123" height="30" width="40" /></a>
+<a href="https://discord.gg/ashim1123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ashim1123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
