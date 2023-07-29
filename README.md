@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [ashims.com.np](ashims.com.np)
+- 👨‍💻 All of my projects are available at [www.ashims.com.np](www.ashims.com.np)
 
 - 💬 Ask me about **React JS, Node JS, Express JS...**
 
