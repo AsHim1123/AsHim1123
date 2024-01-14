@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React JS, Node JS, Express JS...**
+- 💬 Ask me about **React JS, Next JS Node JS, Express JS...**
 
 - 📫 How to reach me **ashimsth89@gmail.com**
 
