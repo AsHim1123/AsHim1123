@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
   
-- 🌱 I’m working on **Next JS**
+- 🌱 I’m working on **Next JS** Projects
 
 - 💬 Ask me about **React JS, Next JS Node JS, Express JS...**
 
