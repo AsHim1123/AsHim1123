@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **ashimsth89@gmail.com**
 
-- ⚡ Fun fact **Code is Fun!**
+- ⚡ Fun fact **Coding is fun!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
