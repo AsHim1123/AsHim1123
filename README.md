@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently pursuing **Bachelor's In Computer Engineering.** 
 
-- 💬 Ask me about **React JS, Next JS Node JS, Express JS...**
+- 💬 Ask me about **React JS, Next JS, Node JS, Express JS...**
 
 - 📫 How to reach me **ashimsth89@gmail.com**
 
