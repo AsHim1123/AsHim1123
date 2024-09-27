@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Languages -->
+
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -45,9 +45,6 @@
   </a>
 </p>
 
-<!-- Frontend Development -->
-<h4 align="left">Frontend Development</h4>
-<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -68,8 +65,6 @@
   </a>
 </p>
 
-<!-- Backend Development -->
-<h4 align="left">Backend Development</h4>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -85,9 +80,7 @@
   </a>
 </p>
 
-<!-- Databases -->
-<h4 align="left">Databases</h4>
-<p align="left">
+
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a> 
@@ -102,9 +95,7 @@
   </a>
 </p>
 
-<!-- DevOps -->
-<h4 align="left">DevOps</h4>
-<p align="left">
+
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
@@ -125,9 +116,8 @@
   </a>
 </p>
 
-<!-- API Tools -->
-<h4 align="left">API Tools</h4>
-<p align="left">
+
+
   <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
   </a>
@@ -136,9 +126,7 @@
   </a>
 </p>
 
-<!-- Design Tools -->
-<h4 align="left">Design Tools</h4>
-<p align="left">
+
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
