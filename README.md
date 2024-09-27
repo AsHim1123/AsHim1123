@@ -63,5 +63,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthashim&show_icons=true&locale=en&theme=dark" alt="shresthashim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthashim&theme=dark" alt="shresthashim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthashim&theme=dark" alt="shresthashim" /></p><p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=shresthashim&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
 
