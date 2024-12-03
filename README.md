@@ -59,14 +59,27 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthashim&show_icons=true&locale=en&layout=compact&theme=dark" alt="shresthashim" /></p>
+<div align="left">
+  <h2>📊 GitHub Stats</h2>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=shresthashim&show_icons=true&locale=en&theme=dark" alt="shresthashim's GitHub stats" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthashim&show_icons=true&locale=en&theme=dark" alt="shresthashim" /></p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthashim&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthashim&theme=dark" alt="shresthashim" /></p><p align="center">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthashim&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shresthashim&theme=dark" alt="GitHub Streak" />
+  </p>
+
+  <h2>🚀 GitHub Activity</h2>
+  
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthashim&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
+  </p>
+</div>
 
 
 
