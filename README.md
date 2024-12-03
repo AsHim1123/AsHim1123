@@ -6,17 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m working on a **NextJS** Project.
+- 🌱 I’m working on a **NextJS** Project and diving into **DSA**.
   
 - 🌱 I’m currently pursuing **Bachelor's In Computer Engineering.** 
 
-- 💬 Ask me about **React JS, Next JS, Node JS, Express JS...**
-
 - 📫 How to reach me **ashimsth89@gmail.com**
 
-- ⚡ Fun fact **Coding is fun!**
-
-<h3 align="left">Connect with me:</h3>
+- ⚡ Turning thoughts into code, one algorithm at a time. 💻
+  
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shresthashim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashim-shrestha-a34081275/" height="30" width="40" /></a>
 <a href="https://fb.com/shresthashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shresthashim" height="30" width="40" /></a>
@@ -24,7 +22,7 @@
 <a href="https://discord.gg/shresthashim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shresthashim" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -61,25 +59,14 @@
 
 <div align="left">
   <h2>📊 GitHub Stats</h2>
-  
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=shresthashim&show_icons=true&locale=en&theme=dark" alt="shresthashim's GitHub stats" />
-  </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthashim&show_icons=true&locale=en&layout=compact&theme=dark" alt="shresthashim" /></p>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shresthashim&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-  </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shresthashim&show_icons=true&locale=en&theme=dark" alt="shresthashim" /></p>
 
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shresthashim&theme=dark" alt="GitHub Streak" />
-  </p>
-
-  <h2>🚀 GitHub Activity</h2>
-  
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthashim&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
-  </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shresthashim&theme=dark" alt="shresthashim" /></p><p align="center">
 </div>
 
-
-
+  <h2>🚀 GitHub Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shresthashim&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Activity Graph" />
+</p>
