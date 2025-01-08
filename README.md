@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently pursuing **Bachelor's In Computer Engineering.** 
 
-- 📫 How to reach me **ashimsth89@gmail.com**
+- 📫 How to reach me **ashim@ashims.com.np**
 
 - ⚡ Turning thoughts into code, one algorithm at a time. 💻
   
